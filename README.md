@@ -14,4 +14,5 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tienduong68/LeetCodePractice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/tienduong68/LeetCodePractice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tienduong68/LeetCodePractice/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tienduong68/LeetCodePractice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

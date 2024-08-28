@@ -5,6 +5,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/tienduong68/LeetCodePractice/tree/master/0180-consecutive-numbers) |
 | [0584-find-customer-referee](https://github.com/tienduong68/LeetCodePractice/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/tienduong68/LeetCodePractice/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/tienduong68/LeetCodePractice/tree/master/0610-triangle-judgement) |

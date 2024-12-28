@@ -19,6 +19,7 @@
 | [1317-monthly-transactions-i](https://github.com/tienduong68/LeetCodePractice/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/tienduong68/LeetCodePractice/tree/master/1338-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tienduong68/LeetCodePractice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1811-fix-names-in-a-table](https://github.com/tienduong68/LeetCodePractice/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/tienduong68/LeetCodePractice/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/tienduong68/LeetCodePractice/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/tienduong68/LeetCodePractice/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |

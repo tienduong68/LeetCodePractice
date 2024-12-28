@@ -21,6 +21,7 @@
 | [1317-monthly-transactions-i](https://github.com/tienduong68/LeetCodePractice/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/tienduong68/LeetCodePractice/tree/master/1338-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tienduong68/LeetCodePractice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/tienduong68/LeetCodePractice/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/tienduong68/LeetCodePractice/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/tienduong68/LeetCodePractice/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/tienduong68/LeetCodePractice/tree/master/1827-invalid-tweets) |

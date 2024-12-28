@@ -20,6 +20,7 @@
 | [1292-immediate-food-delivery-ii](https://github.com/tienduong68/LeetCodePractice/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/tienduong68/LeetCodePractice/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/tienduong68/LeetCodePractice/tree/master/1338-queries-quality-and-percentage) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/tienduong68/LeetCodePractice/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tienduong68/LeetCodePractice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/tienduong68/LeetCodePractice/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/tienduong68/LeetCodePractice/tree/master/1670-patients-with-a-condition) |
